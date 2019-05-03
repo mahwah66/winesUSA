@@ -1,0 +1,254 @@
+,state,region,ava
+0,Arizona,,Sonoita
+1,Arizona,,Willcox
+2,Arkansas,,Altus
+3,Arkansas,,Arkansas Mountain
+4,Arkansas,,Ozark Mountain
+5,California,Central Coast and Santa Cruz Mountains,Arroyo Grande Valley
+6,California,Central Coast and Santa Cruz Mountains,Arroyo Seco
+7,California,Central Coast and Santa Cruz Mountains,Ballard Canyon
+8,California,Central Coast and Santa Cruz Mountains,Ben Lomond Mountain
+9,California,Central Coast and Santa Cruz Mountains,Carmel Valley
+10,California,Central Coast and Santa Cruz Mountains,Central Coast
+11,California,Central Coast and Santa Cruz Mountains,Chalone
+12,California,Central Coast and Santa Cruz Mountains,Cienega Valley
+13,California,Central Coast and Santa Cruz Mountains,Edna Valley
+14,California,Central Coast and Santa Cruz Mountains,Hames Valley
+15,California,Central Coast and Santa Cruz Mountains,Happy Canyon of Santa Barbara
+16,California,Central Coast and Santa Cruz Mountains,Lamorinda
+17,California,Central Coast and Santa Cruz Mountains,Lime Kiln Valley
+18,California,Central Coast and Santa Cruz Mountains,Livermore Valley
+19,California,Central Coast and Santa Cruz Mountains,Monterey
+20,California,Central Coast and Santa Cruz Mountains,Mt. Harlan
+21,California,Central Coast and Santa Cruz Mountains,Pacheco Pass
+22,California,Central Coast and Santa Cruz Mountains,Paicines
+23,California,Central Coast and Santa Cruz Mountains,Paso Robles
+24,California,Central Coast and Santa Cruz Mountains,San Antonio Valley
+25,California,Central Coast and Santa Cruz Mountains,San Benito
+26,California,Central Coast and Santa Cruz Mountains,San Bernabe
+27,California,Central Coast and Santa Cruz Mountains,San Francisco Bay
+28,California,Central Coast and Santa Cruz Mountains,San Lucas
+29,California,Central Coast and Santa Cruz Mountains,San Ysidro District
+30,California,Central Coast and Santa Cruz Mountains,Santa Clara Valley
+31,California,Central Coast and Santa Cruz Mountains,Santa Cruz Mountains
+32,California,Central Coast and Santa Cruz Mountains,Santa Lucia Highlands
+33,California,Central Coast and Santa Cruz Mountains,Santa Maria Valley
+34,California,Central Coast and Santa Cruz Mountains,Sta. Rita Hills
+35,California,Central Coast and Santa Cruz Mountains,Santa Ynez Valley
+36,California,Central Coast and Santa Cruz Mountains,York Mountain
+37,California,Central Valley,Alta Mesa
+38,California,Central Valley,Borden Ranch
+39,California,Central Valley,Capay Valley
+40,California,Central Valley,Clarksburg
+41,California,Central Valley,Clements Hills
+42,California,Central Valley,Cosumnes River
+43,California,Central Valley,Diablo Grande
+44,California,Central Valley,Dunnigan Hills
+45,California,Central Valley,Jahant
+46,California,Central Valley,Lodi
+47,California,Central Valley,Madera
+48,California,Central Valley,Merritt Island
+49,California,Central Valley,Mokelumne River
+50,California,Central Valley,River Junction
+51,California,Central Valley,Salado Creek
+52,California,Central Valley,Sloughhouse
+53,California,Central Valley,Tracy Hills
+54,California,Klamath Mountains,Seiad Valley
+55,California,Klamath Mountains,Trinity Lakes
+56,California,Klamath Mountains,Willow Creek
+57,California,North Coast,Alexander Valley
+58,California,North Coast,Anderson Valley
+59,California,North Coast,Atlas Peak
+60,California,North Coast,Bennett Valley
+61,California,North Coast,Benmore Valley
+62,California,North Coast,Big Valley Lake County
+63,California,North Coast,Calistoga
+64,California,North Coast,Chalk Hill
+65,California,North Coast,Chiles Valley
+66,California,North Coast,Clear Lake
+67,California,North Coast,Cole Ranch
+68,California,North Coast,Coombsville
+69,California,North Coast,Covelo
+70,California,North Coast,Diamond Mountain District
+71,California,North Coast,Dos Rios
+72,California,North Coast,Dry Creek Valley
+73,California,North Coast,Fort Ross-Seaview
+74,California,North Coast,Fountaingrove District
+75,California,North Coast,Green Valley of Russian River Valley
+76,California,North Coast,Guenoc Valley
+77,California,North Coast,High Valley
+78,California,North Coast,Howell Mountain
+79,California,North Coast,Kelsey Bench-Lake County
+80,California,North Coast,Knights Valley
+81,California,North Coast,Los Carneros
+82,California,North Coast,McDowell Valley
+83,California,North Coast,Mendocino
+84,California,North Coast,Mendocino Ridge
+85,California,North Coast,Moon Mountain District Sonoma County
+86,California,North Coast,Mt. Veeder
+87,California,North Coast,Napa Valley
+88,California,North Coast,North Coast
+89,California,North Coast,Northern Sonoma
+90,California,North Coast,Oak Knoll District of Napa Valley
+91,California,North Coast,Oakville
+92,California,North Coast,Petaluma Gap
+93,California,North Coast,Pine Mountain-Cloverdale
+94,California,North Coast,Potter Valley
+95,California,North Coast,Red Hills Lake County
+96,California,North Coast,Redwood Valley
+97,California,North Coast,Rockpile
+98,California,North Coast,Russian River Valley
+99,California,North Coast,Rutherford
+100,California,North Coast,Solano County Green Valley
+101,California,North Coast,Sonoma Coast
+102,California,North Coast,Sonoma Mountain
+103,California,North Coast,Sonoma Valley
+104,California,North Coast,Spring Mountain District
+105,California,North Coast,St. Helena
+106,California,North Coast,Stags Leap District
+107,California,North Coast,Suisun Valley
+108,California,North Coast,Wild Horse Valley
+109,California,North Coast,Yorkville Highlands
+110,California,North Coast,Yountville
+111,California,Sierra Foothills,California Shenandoah Valley
+112,California,Sierra Foothills,El Dorado
+113,California,Sierra Foothills,Fair Play
+114,California,Sierra Foothills,Fiddletown
+115,California,Sierra Foothills,North Yuba
+116,California,Sierra Foothills,Sierra Foothills
+117,California,Cascade Foothills,Manton Valley
+118,California,South Coast,Antelope Valley of the California High Desert
+119,California,South Coast,Cucamonga Valley
+120,California,South Coast,Leona Valley
+121,California,South Coast,Malibu-Newton Canyon
+122,California,South Coast,Malibu Coast
+123,California,South Coast,Ramona Valley
+124,California,South Coast,Saddle Rock-Malibu
+125,California,South Coast,San Pasqual Valley
+126,California,South Coast,Sierra Pelona Valley
+127,California,South Coast,South Coast
+128,California,South Coast,Temecula Valley
+129,Colorado,,Grand Valley
+130,Colorado,,West Elks
+131,Connecticut,,Southeastern New England
+132,Connecticut,,Western Connecticut Highlands
+133,Georgia,,Upper Hiwassee Highlands
+134,Georgia,,Dahlonega Plateau
+135,Idaho,,Snake River Valley
+136,Idaho,,Eagle Foothills
+137,Idaho,,Lewis-Clark Valley
+138,Illinois,,Shawnee Hills
+139,Illinois,,Upper Mississippi River Valley
+140,Indiana,,Indiana Uplands
+141,Indiana,,Ohio River Valley
+142,Iowa,,Upper Mississippi River Valley
+143,Kentucky,,Ohio River Valley
+144,Louisiana,,Mississippi Delta
+145,Maryland,,Catoctin
+146,Maryland,,Cumberland Valley
+147,Maryland,,Linganore
+148,Massachusetts,,Martha's Vineyard
+149,Massachusetts,,Southeastern New England
+150,Michigan,,Fennville
+151,Michigan,,Lake Michigan Shore
+152,Michigan,,Leelanau Peninsula
+153,Michigan,,Old Mission Peninsula
+154,Michigan,,Tip of the Mitt
+155,Minnesota,,Alexandria Lakes
+156,Minnesota,,Upper Mississippi River Valley
+157,Mississippi,,Mississippi Delta
+158,Missouri,,Augusta
+159,Missouri,,Hermann
+160,Missouri,,Ozark Highlands
+161,Missouri,,Ozark Mountain
+162,New Jersey,,Cape May Peninsula
+163,New Jersey,,Central Delaware Valley
+164,New Jersey,,Outer Coastal Plain
+165,New Jersey,,Warren Hills
+166,New Mexico,,Mesilla Valley
+167,New Mexico,,Middle Rio Grande Valley
+168,New Mexico,,Mimbres Valley
+169,New York,,Cayuga Lake
+170,New York,,Finger Lakes
+171,New York,,Hudson River Region
+172,New York,,Lake Erie
+173,New York,,Long Island
+174,New York,,Niagara Escarpment
+175,New York,,North Fork of Long Island
+176,New York,,Seneca Lake
+177,New York,,"The Hamptons, Long Island"
+178,New York,,Champlain Valley of New York
+179,New York,,Upper Hudson
+180,North Carolina,,Appalachian High Country
+181,North Carolina,,Haw River Valley
+182,North Carolina,,Swan Creek
+183,North Carolina,,Upper Hiwassee Highlands
+184,North Carolina,,Yadkin Valley
+185,Ohio,,Lake Erie
+186,Ohio,,Grand River Valley
+187,Ohio,,Isle St. George
+188,Ohio,,Loramie Creek
+189,Ohio,,Ohio River Valley
+190,Oklahoma,,Ozark Mountain
+191,Oregon,,Applegate Valley
+192,Oregon,,Chehalem Mountains
+193,Oregon,,Columbia Gorge
+194,Oregon,,Columbia Valley
+195,Oregon,,Dundee Hills
+196,Oregon,,Elkton Oregon
+197,Oregon,,Eola-Amity Hills
+198,Oregon,,McMinnville
+199,Oregon,,"Red Hill Douglas County, Oregon"
+200,Oregon,,Ribbon Ridge
+201,Oregon,,Rogue Valley
+202,Oregon,,Snake River Valley
+203,Oregon,,Southern Oregon
+204,Oregon,,The Rocks District of Milton–Freewater
+205,Oregon,,Umpqua Valley
+206,Oregon,,Walla Walla Valley
+207,Oregon,,Willamette Valley
+208,Oregon,,Van Duzer Corridor
+209,Oregon,,Yamhill-Carlton District
+210,Pennsylvania,,Central Delaware Valley
+211,Pennsylvania,,Cumberland Valley
+212,Pennsylvania,,Lake Erie
+213,Pennsylvania,,Lancaster Valley
+214,Pennsylvania,,Lehigh Valley
+215,Rhode Island,,Southeastern New England
+216,Tennessee,,Mississippi Delta
+217,Texas,,Bell Mountain
+218,Texas,,Escondido Valley
+219,Texas,,Fredericksburg in the Texas Hill Country
+220,Texas,,Mesilla Valley
+221,Texas,,Texas Davis Mountains
+222,Texas,,Texas High Plains
+223,Texas,,Texas Hill Country
+224,Texas,,Texoma
+225,Virginia,,Middleburg
+226,Virginia,,Monticello
+227,Virginia,,North Fork of Roanoke
+228,Virginia,,Northern Neck George Washington Birthplace
+229,Virginia,,Rocky Knob
+230,Virginia,,Shenandoah Valley
+231,Virginia,,Virginia's Eastern Shore
+232,Washington,,Ancient Lakes of the Columbia Valley
+233,Washington,,Columbia Gorge
+234,Washington,,Columbia Valley
+235,Washington,,Horse Heaven Hills
+236,Washington,,Lake Chelan
+237,Washington,,Lewis-Clark Valley
+238,Washington,,Naches Heights
+239,Washington,,Puget Sound
+240,Washington,,Rattlesnake Hills
+241,Washington,,Red Mountain
+242,Washington,,Snipes Mountain
+243,Washington,,Wahluke Slope
+244,Washington,,Walla Walla Valley
+245,Washington,,The Rocks District of Milton-Freewater
+246,Washington,,Yakima Valley
+247,West Virginia,,Kanawha River Valley
+248,West Virginia,,Ohio River Valley
+249,West Virginia,,Shenandoah Valley
+250,Wisconsin,,Lake Wisconsin
+251,Wisconsin,,Upper Mississippi River Valley
+252,Wisconsin,,Wisconsin Ledge

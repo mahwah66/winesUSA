@@ -1,0 +1,254 @@
+,ava,state,year,area,climate,grapes
+0,Sonoita,Arizona,1984,"208,000 acres (84,200 ha)",Subtropical continental,Cabernet Franc|Cabernet Sauvignon|Chardonnay|Malvasia|Merlot|Mourvedre|Petite Sirah|Pinot noir|Riesling|Sangiovese|Sauvignon blanc|Syrah|Tempranillo|Viognier|Zinfandel
+1,Willcox,Arizona,,,,
+2,Altus,Arkansas,1984,"208,000 acres (84,175 ha)",Humid subtropical,Cabernet Sauvignon|Chardonnay|Kerner|Müller-Thurgau|Muscadine|Niagara|Oraniensteiner|Scheurebe|Vignoles
+3,Arkansas Mountain,Arkansas,1986,"2,880,000 acres (1,165,000 ha)",Continental/humid subtropical,Muscadine|Niagara|Catawba
+4,Ozark Mountain,Arkansas,"1986, amended 1988","3,520,000 acres (1,424,493 ha)",Continental/humid subtropical,Catawba|Chambourcin|Chardonel|Concord|Norton|St. Vincent|Vidal blanc|Vignoles|Villard noir
+5,Arroyo Grande Valley,California,1990,"42,880 acres (17,353 ha)",,Chardonnay|Counoise|Grenache|Mourvedre|Petite Sirah|Pinot blanc|Pinot gris|Pinot noir|Riesling|Sauvignon blanc|Syrah|Tempranillo|Viognier|Zinfandel|Picardan|Malbec|Alicante Bouschet|Carmenere|Barbera|Nebbiolo|Cabernet Franc|Blaufrankisch|Merlot|Picpoul Blanc|Fiano
+6,Arroyo Seco,California,"1983, amended in 2006","42,880 acres (17,353 ha)",,Barbera|Cabernet Franc|Cabernet Sauvignon|Chardonnay|Gewurztraminer|Grenache|Merlot|Mourvedre|Muscat Canelli|Pinot blanc|Pinot gris|Pinot noir|Riesling|Sangiovese|Sauvignon blanc|Syrah|Viognier
+7,Ballard Canyon,California,2013,,,Syrah|Grenache
+8,Ben Lomond Mountain,California,1987,"9,000 acres (36 km2)",,Cabernet Sauvignon|Pinot Noir|Chardonnay|Zinfandel
+9,Carmel Valley,California,1982,"19,200 acres (7,770 ha)",,Aleatico|Alicante Bouschet|Cabernet Franc|Cabernet Sauvignon|Carignane|Chardonnay|Chenin blanc|Grenache|Malbec|Merlot|Petit Verdot|Petite Sirah|Pinot noir|Sauvignon blanc|Semillon|Syrah|Zinfandel
+10,Central Coast,California,"1985, amended in 1999 and 2006.","100,000 acres (400 km2)",,Albarino|Barbera|Cabernet Franc|Cabernet Sauvignon|Carignane|Chardonnay|Chenin blanc|Cinsault|Counoise|Dolcetto|Gewurztraminer|Grenache|Grenache blanc|Malbec|Malvasia|Marsanne|Merlot|Mondeuse|Mourvedre|Nebbiolo|Orange Muscat|Petit Verdot|Petite Sirah|Pinot gris|Pinot noir|Riesling|Roussanne|Sangiovese|Sauvignon blanc|Semillon|Syrah|Tempranillo|Vermentino|Viognier|Zinfandel
+11,Chalone,California,1982,"8,640 acres (3,496 ha)",,Chardonnay|Chenin blanc|Grenache|Pinot blanc|Pinot noir|Sangiovese|Syrah|Viognier
+12,Cienega Valley,California,1982,,,Cabernet Franc|Cabernet Pfeffer|Cabernet Sauvignon|Carignane|Chardonnay|Dolcetto|Grenache|Merlot|Negrette|Pinot gris|Pinot noir|Sangiovese|Syrah|Zinfandel
+13,Edna Valley,California,"1982, amended in 1987","22,400 acres (9,065 ha)",,Albarino|Chardonnay|Grenache|Merlot|Mourvedre|Petite Sirah|Pinot gris|Pinot noir|Sauvignon blanc|Syrah|Teroldego|Viognier
+14,Hames Valley,California,1994,"10,240 acres (4,144 ha)",,Alicante Bouschet|Cabernet Franc|Cabernet Sauvignon|Merlot|Sauvignon blanc|Teroldego
+15,Happy Canyon of Santa Barbara,California,"2009,","23,941 acres (9,689 ha)",,Cabernet Franc|Cabernet Sauvignon|Malbec|Merlot|Petit Verdot|Rosé|Sangiovese|Sauvignon blanc|Syrah|Viognier
+16,Lamorinda,California,2016,,,Cabernet Sauvignon|Pinot Noir
+17,Lime Kiln Valley,California,"1982, amended 1987","2,300 acres (931 ha)",,Mourvedre|Zinfandel
+18,Livermore Valley,California,"1982, amended 2006","96,000 acres (38,850 ha)",,Barbera|Cabernet Franc|Cabernet Sauvignon|Chardonnay|Chenin blanc|Cinsault|Colombard|Counoise|Gewurztraminer|Grenache|Malbec|Merlot|Mourvedre|Muscat Canelli|Nebbiolo|Petit Verdot|Petite Sirah|Pinot blanc|Pinot gris|Pinot noir|Roussanne|Sangiovese|Sauvignon blanc|Semillon|Souzao|Syrah|Tempranillo|Touriga Francesa|Touriga Nacional|Viognier|Zinfandel
+19,Monterey,California,"1984, amended in 1987","35,758 acres (14,471 ha)",,Albarino|Alvarelhao|Cabernet Sauvignon|Chardonnay|Chenin blanc|Gewurztraminer|Grenache|Malbec|Malvasia|Merlot|Orange Muscat|Petite Sirah|Pinot blanc|Pinot gris|Pinot noir|Riesling|Roussanne|Sangiovese|Sauvignon blanc|Semillon|Souzao|Syrah|Tannat|Tinta Cao|Touriga Nacional|Valdiguie|Viognier|Zinfandel
+20,Mt. Harlan,California,1990,"7,440 acres (3,011 ha)",,Aligote|Chardonnay|Pinot noir|Viognier
+21,Pacheco Pass,California,1984,"3,200 acres (1,295 ha)",,Black Muscat|Chardonnay|Merlot|Zinfandel
+22,Paicines,California,1982,"42,880 acres (17,353 ha)",,Arneis|Cabernet Franc|Cabernet Sauvignon|Chardonnay|Malbec|Merlot|Petit Verdot|Syrah
+23,Paso Robles,California,"1983, amended in 1996","666,618 acres (269,771 ha)",,Albarino|Barbera|Cabernet Franc|Cabernet Sauvignon|Chardonnay|Counoise|Grenache|Grenache blanc|Malbec|Marsanne|Merlot|Mourvedre|Nebbiolo|Orange Muscat|Petit Verdot|Petite Sirah|Picpoul|Pinot gris|Pinot noir|Riesling|Roussanne|Sangiovese|Sauvignon blanc|Syrah|Tannat|Tempranillo|Tinta Cao|Viognier|Zinfandel
+24,San Antonio Valley,California,2006,,,Cabernet Franc|Cabernet Sauvignon|Petit Verdot|Petite Sirah|Roussanne|Sauvignon blanc|Syrah|Zinfandel
+25,San Benito,California,1987,"45,000 acres (18,211 ha)",,Barbera|Chardonnay|Grenache|Merlot|Mourvedre|Syrah|Tempranillo
+26,San Bernabe,California,2004,"24,796 acres (10,035 ha)",,
+27,San Francisco Bay,California,"1999, amended in 2006","1,566,713 acres (634,026 ha)",,Barbera|Cabernet Sauvignon|Chardonnay|Grenache|Mourvedre|Petite Sirah|Pinot noir|Riesling|Syrah|Zinfandel
+28,San Lucas,California,"1987, amended 2004","33,920 acres (13,727 ha)",,Cabernet Sauvignon|Chardonnay|Malbec|Merlot|Petit Verdot|Petite Sirah|Pinot noir|Sauvignon blanc|Syrah
+29,San Ysidro District,California,1990,"2,340 acres (947 ha)",,Merlot
+30,Santa Clara Valley,California,1989,"332,800 acres (134,679 ha)",,Cabernet Sauvignon|Carignane|Chardonnay|Fiano|Grenache|Grignolino|Merlot|Muscat Canelli|Petite Sirah|Pinot noir|Riesling|Roussanne|Sangiovese|Semillon|Syrah|Zinfandel
+31,Santa Cruz Mountains,California,1981,"app. 322,000 acres",,Cabernet Franc|Cabernet Sauvignon|Carignane|Chardonnay|Dolcetto|Grenache|Malbec|Malvasia|Merlot|Mondeuse|Mourvedre|Nebbiolo|Petit Verdot|Petite Sirah|Pinot noir|Sangiovese|Sauvignon blanc|Syrah|Viognier|Zinfandel
+32,Santa Lucia Highlands,California,1990,"22,000 acres (8,903 ha)",,Cabernet Franc|Cabernet Sauvignon|Chardonnay|Chenin blanc|Malbec|Merlot|Petit Verdot|Pinot gris|Pinot noir|Riesling|Roussanne|Syrah|Viognier
+33,Santa Maria Valley,California,"1981, amended 1985","98,790 acres (40,000 ha)",Region I,Aligote|Cabernet Sauvignon|Chardonnay|Chenin blanc|Grenache|Malbec|Marsanne|Merlot|Mondeuse|Nebbiolo|Petit Verdot|Pinot blanc|Pinot gris|Pinot noir|Riesling|Roussanne|Sangiovese|Sauvignon blanc|Silvaner|Syrah|Tocai Friulano|Viognier|Zinfandel
+34,Sta. Rita Hills,California,"2001, amended 2005","30,720 acres (12,432 ha)",,Barbera|Chardonnay|Dolcetto|Dornfelder|Grenache|Mission|Pinot blanc|Pinot gris|Pinot noir|Riesling|Sauvignon blanc|Syrah|Viognier|Zinfandel
+35,Santa Ynez Valley,California,1983,"42,880 acres (17,353 ha)",,Albarino|Arneis|Cabernet Franc|Cabernet Sauvignon|Chardonnay|Cinsault|Counoise|Grenache|Grenache blanc|Lagrein|Malbec|Malvasia|Marsanne|Merlot|Mourvedre|Muscat Canelli|Nebbiolo|Negrette|Petit Verdot|Pinot blanc|Pinot gris|Pinot noir|Riesling|Roussanne|Sangiovese|Sauvignon blanc|Semillon|Syrah|Tempranillo|Tocai Friulano|Viognier|Zinfandel
+36,York Mountain,California,"1983, amended in 1987","9,360 acres (3,788 ha)",,Cabernet Sauvignon|Chardonnay|Petit Verdot|Pinot noir|Syrah|Viognier
+37,Alta Mesa,California,2006,"55,400 acres (224 km2)",,Zinfandel|Syrah|Cabernet Sauvignon|Cabernet Franc|Merlot
+38,Borden Ranch,California,2006,"70,000 acres (28,328 ha)",,Cabernet Sauvignon|Chardonnay|Merlot|Syrah|Zinfandel
+39,Capay Valley,California,2002,"102,400 acres (41,440 ha)",,Cabernet Franc|Cabernet Sauvignon|Syrah|Mourvedre|Tempranillo|Viognier
+40,Clarksburg,California,1984,"64,640 acres (26,159 ha)",,Albarino|Cabernet Sauvignon|Chardonnay|Chenin blanc|Gewurztraminer|Grenache blanc|Malvasia|Merlot|Orange Muscat|Petite Sirah|Pinot gris|Riesling|Sauvignon blanc|Syrah|Tempranillo|Verdelho|Viognier
+41,Clements Hills,California,2006,"85,400 acres (34,560 ha)",,Barbera|Cabernet Sauvignon|Chardonnay|Dolcetto|Grenache|Malbec|Merlot|Mourvedre|Petite Sirah|Syrah|Zinfandel
+42,Cosumnes River,California,2006,"54,700 acres (22,136 ha)",,Cabernet Sauvignon|Chardonnay|Merlot|Pinot gris|Sauvignon blanc|Syrah
+43,Diablo Grande,California,1998,"30,000 acres (12,141 ha)",,Cabernet Sauvignon|Chardonnay|Merlot|Pinot noir|Sangiovese|Syrah
+44,Dunnigan Hills,California,1993,"89,000 acres (36,017 ha)",,Cabernet Sauvignon|Chardonnay|Merlot|Petite Sirah|Sauvignon blanc|Syrah|Tempranillo|Viognier
+45,Jahant,California,2006,"28,000 acres (11,331 ha)",,
+46,Lodi,California,"1986, amended in 2002","551,000 acres (223,000 ha)",Mediterranean,Albarino|Alicante Bouschet|Alvarelhao|Barbera|Cabernet Franc|Cabernet Sauvignon|Carignane|Charbono|Chardonnay|Chenin blanc|Cinsault|Colombard|Dolcetto|Dornfelder|Flame Tokay|Gamay noir|Graciano|Grenache|Kerner|Lemberger|Malbec|Malvasia|Marsanne|Merlot|Mourvedre|Muscat Canelli|Petit Verdot|Petite Sirah|Pinot gris|Pinot noir|Pinotage|Riesling|Roussanne|Rubired|Ruby Cabernet|Sangiovese|Sauvignon blanc|Souzao|Symphony|Syrah|Tannat|Tempranillo|Tinta Cao|Touriga Nacional|Trousseau gris|Valdiguie|Verdelho|Viognier|Zinfandel
+47,Madera,California,"1984, amended in 1985 and 1987","230,000 acres (93,078 ha)",,Barbera|Black Muscat|Cabernet Franc|Cabernet Sauvignon|Carmenere|Chardonnay|Colombard|Grenache|Malbec|Malvasia|Merlot|Muscat Canelli|Muscat of Alexandria|Orange Muscat|Petit Verdot|Petite Sirah|Riesling|Souzao|Syrah|Tinta Cao|Tinta Madeira|Touriga Nacional|Valdiguie|Viognier|Zinfandel
+48,Merritt Island,California,"1983, amended in 1987","5,000 acres (2,023 ha)",,Chardonnay
+49,Mokelumne River,California,2006,"87,500 acres (35,410 ha)",,Cabernet Sauvignon|Flame Tokay|Zinfandel
+50,River Junction,California,2001,"9,000 acres (3,642 ha)",,Chardonnay
+51,Salado Creek,California,2004,"2,940 acres (1,190 ha)",,Cabernet Sauvignon|Sauvignon blanc|Syrah|Viognier
+52,Sloughhouse,California,2006,"78,800 acres (319 km2)",,Cabernet Sauvignon|Cabernet Franc|Merlot|Zinfandel
+53,Tracy Hills,California,2006,"39,200 acres (15,864 ha)",,
+54,Seiad Valley,California,1994,3 acres (1 ha),,Riesling
+55,Trinity Lakes,California,2005,"96,000 acres (38,850 ha)",,
+56,Willow Creek,California,1983,"6,000 acres (2,428 ha)",,
+57,Alexander Valley,California,"1984, amended 1986, 1988, 1990, 2001","32,536 acres (132 km2)",,Barbera|Cabernet Franc|Cabernet Sauvignon|Carignane|Chardonnay|Chenin blanc|Gewurztraminer|Grenache|Malbec|Merlot|Muscat Canelli|Petit Verdot|Petite Sirah|Pinot blanc|Pinot noir|Riesling|Sangiovese|Sauvignon blanc|Semillon|Syrah|Tempranillo|Viognier|Zinfandel
+58,Anderson Valley,California,,,,
+59,Atlas Peak,California,1992,"11,000 acres (45 km2)",,Cabernet Franc|Cabernet Sauvignon|Chardonnay|Merlot|Petit Verdot|Sangiovese|Syrah|Zinfandel
+60,Bennett Valley,California,2003,"8,140 acres (33 km2)",,Cabernet Franc|Cabernet Sauvignon|Chardonnay|Grenache|Merlot|Pinot noir|Roussanne|Sauvignon blanc|Syrah|Zinfandel
+61,Benmore Valley,California,1991,"1,440 acres (583 ha)",,
+62,Big Valley Lake County,California,,,,
+63,Calistoga,California,2010,approximately 7 square miles (18 km2),III[2],Cabernet Sauvignon|Petite Sirah|Syrah|Zinfandel|Cabernet Franc
+64,Chalk Hill,California,"1983, amended in 1988","1,000 acres (4 km2)",,Cabernet Sauvignon|Chardonnay|Malbec|Merlot|Petit Verdot|Pinot gris|Sangiovese|Sauvignon blanc|Sauvignon gris|Semillon|Syrah|Zinfandel
+65,Chiles Valley,California,1999,"6,000 acres (24 km2)",,Cabernet Franc|Cabernet Sauvignon|Chardonnay|Merlot|Sauvignon blanc|Semillon|Zinfandel
+66,Clear Lake,California,1984,"5,000 acres (2,000 ha)",,Cabernet Sauvignon|Merlot|Muscat Canelli|Sauvignon blanc|Syrah|Tempranillo
+67,Cole Ranch,California,1983,,,Cabernet Sauvignon|Merlot|Pinot noir|Riesling
+68,Coombsville,California,2011,"11,000 acres (45 km2)",,Cabernet Sauvignon|Chardonnay|Pinot noir|Syrah
+69,Covelo,California,2006,2 acres (1 ha),,
+70,Diamond Mountain District,California,2001,"5,000 acres (20 km2)",,Cabernet Franc|Cabernet Sauvignon|Malbec|Merlot|Petit Verdot|Sauvignon blanc
+71,Dos Rios,California,2005,,,Cabernet Franc|Cabernet Sauvignon|Chardonnay|Merlot|Zinfandel
+72,Dry Creek Valley,California,1983,"9,000 acres (36 km2)",,Alicante Bouschet|Barbera|Black Malvasia|Cabernet Franc|Cabernet Sauvignon|Carignane|Chardonnay|Chasselas|Cinsault|Gewurztraminer|Grenache|Malbec|Marsanne|Merlot|Mourvedre|Muscat Canelli|Muscat of Alexandria|Peloursin|Petit Verdot|Petite Sirah|Pinot blanc|Pinot noir|Riesling|Roussanne|Sangiovese|Sauvignon blanc|Sauvignon Musque|Semillon|Syrah|Viognier|Zinfandel
+73,Fort Ross-Seaview,California,,,,
+74,Fountaingrove District,California,,,,
+75,Green Valley of Russian River Valley,California,"1983, amended in 2007","19,000 acres (77 km2)",,Chardonnay|Pinot noir|Syrah
+76,Guenoc Valley,California,1981,340 acres (140 ha),III,Petite Sirah
+77,High Valley,California,2005,"15,000 acres (61 km2)",,Red Bordeaux|Syrah|Pinot grigio|Pinot noir|Chardonnay|Riesling|Sauvignon blanc|Gewurztraminer
+78,Howell Mountain,California,"1983, amended 1987","14,000 acres (57 km2)",,Cabernet Franc|Cabernet Sauvignon|Chardonnay|Grenache|Malbec|Merlot|Petit Verdot|Petite Sirah|Sauvignon blanc|Zinfandel
+79,Kelsey Bench-Lake County,California,,,,
+80,Knights Valley,California,1983,"37,000 acres (150 km2)",,Cabernet Franc|Cabernet Sauvignon|Chardonnay|Malbec|Merlot|Mourvedre|Petit Verdot|Sauvignon blanc|Semillon|Syrah|Tinta Cao|Zinfandel
+81,Los Carneros,California,"1983, amended in 1987 and 2006","1,100 acres (4 km2)",,Albarino|Barbera|Cabernet Franc|Cabernet Sauvignon|Chardonnay|Dolcetto|Gewurztraminer|Grenache|Malbec|Marsanne|Merlot|Muscat Canelli|Nebbiolo|Pinot blanc|Pinot gris|Pinot Meunier|Pinot noir|Riesling|Roussanne|Sauvignon blanc|Syrah|Tempranillo|Tocai Friulano|Vermentino|Vernaccia|Viognier|Zinfandel|Petit Verdot
+82,McDowell Valley,California,"1981, amended in 1987",540 acres (2 km2),,Grenache|Grenache gris|Petite Sirah|Sauvignon blanc|Souzao|Syrah|Touriga Nacional|Zinfandel
+83,Mendocino,California,"1984, amended in 1998",,Mediterranean/maritime,Arneis|Barbera|Cabernet Franc|Cabernet Sauvignon|Carignane|Charbono|Chardonnay|Chenin blanc|Colombard|Dolcetto|Grenache|Merlot|Montepulciano|Muscat Canelli|Nebbiolo|Negro Amaro|Nero D’Avola|Petit Verdot|Petite Sirah|Pinot blanc|Pinot gris|Pinot Meunier|Pinot noir|Pinotage|Riesling|Sangiovese|Sauvignon blanc|Sauvignon Musque|Semillon|Syrah|Tocai Friulano|Valdiguie|Viognier|Zinfandel
+84,Mendocino Ridge,California,1997,"262,400 acres (1,100 km2)",,Pinot Noir|Zinfandel|Syrah|Sauvignon Blanc|Chardonnay|Merlot|Riesling|Albariño|Grüner Veltliner
+85,Moon Mountain District Sonoma County,California,,,,Cabernet Sauvignon|Syrah
+86,Mt. Veeder,California,1993 ,"15,000 acres (6,100 ha) ",,Cabernet Franc|Cabernet Sauvignon|Chardonnay|Malbec|Merlot|Petite Sirah|Syrah|Viognier|Zinfandel
+87,Napa Valley,California,1981,"43,000 acres (174 km2)",Mediterranean,Cabernet Sauvignon|Merlot|Cabernet Franc|Pinot noir|Zinfandel|Chardonnay|Sauvignon blanc
+88,North Coast,California,1983,"3,000,000 acres (12,000 km2)",Mediterranean/maritime,Barbera|Cabernet Franc|Cabernet Sauvignon|Carignane|Chardonnay|Dolcetto|Gamay noir|Gewurztraminer|Lagrein|Malbec|Merlot|Muscat Canelli|Petit Verdot|Petite Sirah|Pinot Meunier|Pinot noir|Sangiovese|Sauvignon blanc|Semillon|Syrah|Valdiguie|Verdelho|Viognier|Zinfandel
+89,Northern Sonoma,California,"1985, amended in 1986 and 1990","329,000 acres (1,331 km2)",,Chardonnay
+90,Oak Knoll District of Napa Valley,California,2004,"8,300 acres (34 km2)",,Cabernet Franc|Cabernet Sauvignon|Chardonnay|Malbec|Merlot|Pinot noir|Riesling|Syrah|Viognier|Zinfandel
+91,Oakville,California,1993,"5,700 acres (23 km2)",,Cabernet Sauvignon|Merlot|Chardonnay
+92,Petaluma Gap,California,,,,
+93,Pine Mountain-Cloverdale,California,"November, 2012 ","4,750 Acres",,Cabernet Sauvignon|Merlot|Cabernet Franc|Pinot Noir|Zinfandel|Chardonnay|Sauvignon Blanc
+94,Potter Valley,California,1983,"1,000 acres (4 km2)",,Chardonnay|Pinot gris|Pinot noir|Riesling|Sauvignon blanc|Zinfandel
+95,Red Hills Lake County,California,2004,"31,250 acres (126 km2)",III,Barbera|Cabernet Franc|Cabernet Sauvignon|Malbec|Merlot|Petite Sirah|Petite Verdot|Sangiovese|Sauvignon blanc|Syrah|Zinfandel
+96,Redwood Valley,California,1996,,,Barbera|Cabernet Sauvignon|Carignane|Charbono|Chardonnay|Merlot|Petite Sirah|Pinot noir|Sangiovese|Sauvignon blanc|Syrah|Valdiguie|Viognier|Zinfandel
+97,Rockpile,California,2002,"15,400 acres (62 km2)",,Cabernet Sauvignon|Petite Sirah|Zinfandel
+98,Russian River Valley,California,"1983, amended in 1987, 2003, and 2005","10,000 acres (40 km2)",,Alicante Bouschet|Arneis|Barbera|Black Muscat|Cabernet Franc|Cabernet Sauvignon|Canaiolo nero|Carignane|Chardonnay|Chenin blanc|Cinsault|Dolcetto|Early Burgundy|Freisa|Gewurztraminer|Grenache|Malbec|Mammolo|Marsanne|Merlot|Muscat Canelli|Petit Verdot|Petite Sirah|Pinot blanc|Pinot gris|Pinot Meunier|Pinot noir|Pinotage|Roussanne|Sangiovese|Sauvignon blanc|Semillon|Syrah|Trousseau gris|Viognier|Zinfandel
+99,Rutherford,California,1993,"6,650 acres (27 km2)",,Cabernet Franc|Cabernet Sauvignon|Chardonnay|Malbec|Merlot|Nebbiolo|Petit Verdot|Petite Sirah|Pinot noir|Sangiovese|Sauvignon blanc|Syrah|Zinfandel
+100,Solano County Green Valley,California,1982,800 acres (324 ha),,Cabernet Sauvignon|Merlot|Syrah
+101,Sonoma Coast,California,1987,"500,000 acres (2,000 km2)",,Cabernet Franc|Cabernet Sauvignon|Chardonnay|Gewurztraminer|Marsanne|Merlot|Pinot gris|Pinot Meunier|Pinot noir|Pinotage|Roussanne|Sauvignon blanc|Syrah|Viognier|Zinfandel
+102,Sonoma Mountain,California,1985,"5,000 acres (20 km2)",,Cabernet Franc|Cabernet Sauvignon|Chardonnay|Merlot|Petit Verdot|Pinot gris|Pinot Meunier|Pinot noir|Sauvignon blanc|Syrah|Zinfandel
+103,Sonoma Valley,California,"1981, amended in 1985 and 1987","60,065 acres (24,307 ha)",,Aleatico|Alicante Bouschet|Barbera|Burger|Cabernet Franc|Cabernet Sauvignon|Carignane|Chardonnay|Gewurztraminer|Grand noir|Grenache|Lenoir|Malbec|Merlot|Mourvedre|Muscadelle|Muscat Canelli|Nebbiolo|Palomino|Petit Bouschet|Petit Verdot|Petite Sirah|Pinot noir|Riesling|Sangiovese|Sauvignon blanc|Semillon|Silvaner|Syrah|Tempranillo|Teroldego|Trousseau gris|Viognier|Zinfandel
+104,Spring Mountain District,California,1993,"8,600 acres (35 km2)",,Cabernet Sauvignon|Merlot|Cabernet Franc|Zinfandel|Petit Verdot|Syrah|Petite Sirah|Pinot noir|Chardonnay|Sauvignon blanc|Riesling
+105,St. Helena,California,1995,"9,000 acres (36 km2)",,Zinfandel|Cabernet Sauvignon|Chardonnay|Sangiovese|Merlot|Cabernet Franc|Syrah|Petit Verdot
+106,Stags Leap District,California,1989,"2,700 acres (11 km2)",,Cabernet Franc|Cabernet Sauvignon|Chardonnay|Malbec|Merlot|Petit Verdot|Zinfandel
+107,Suisun Valley,California,1982 ,"15,000 acres (61 km2)",III,Cabernet Sauvignon|French Colombard|Chardonnay|Petite Sirah|Pinot Noir|Riesling|Sauvignon Blanc|Valdiguie|Syrah|Zinfandel
+108,Wild Horse Valley,California,1988,"3,300 acres (13 km2)",,Chardonnay|Pinot noir
+109,Yorkville Highlands,California,1998,,,Cabernet Franc|Cabernet Sauvignon|Carmenere|Chardonnay|Malbec|Merlot|Petit Verdot|Petite Sirah|Pinot noir|Primitivo|Sauvignon blanc|Semillon|Symphony|Syrah|Viognier|Zinfandel
+110,Yountville,California,1999,"8,000 acres (32 km2)",,Cabernet Franc|Cabernet Sauvignon|Chardonnay|Gewurztraminer|Malbec|Merlot|Petit Verdot|Petite Sirah|Pinot blanc|Pinot noir|Sangiovese|Sauvignon blanc|Syrah|Zinfandel
+111,California Shenandoah Valley,California,"1982, amended in 1987","10,000 acres (40 km2)",,Alicante Bouschet|Barbera|Cabernet Franc|Cabernet Sauvignon|Carignane|Chardonnay|Grenache|Merlot|Mourvedre|Muscat Canelli|Nebbiolo|Orange Muscat|Petite Sirah|Roussanne|Sangiovese|Sauvignon blanc|Semillon|Syrah|Verdelho|Viognier|Zinfandel
+112,El Dorado,California,"1983, amended in 1987","410,115 acres (1,660 km2)",,Barbera|Cabernet Franc|Cabernet Sauvignon|Carignane|Charbono|Chardonnay|Cinsault|Gewurztraminer|Graciano|Grenache|Grenache blanc|Malbec|Marsanne|Merlot|Mondeuse|Mourvedre|Muscat Canelli|Petite Sirah|Pinot gris|Pinot noir|Pinotage|Riesling|Rolle|Roussanne|Sangiovese|Sauvignon blanc|Semillon|Syrah|Tempranillo|Tinta Cao|Touriga Nacional|Viognier|Zinfandel
+113,Fair Play,California,2001,350 acres (1 km2),,Barbera|Black Muscat|Cabernet Franc|Cabernet Sauvignon|Chardonnay|Grenache|Malbec|Merlot|Mourvedre|Petit Verdot|Petite Sirah|Pinot noir|Pinotage|Sangiovese|Sauvignon blanc|Souzao|Syrah|Tinta Cao|Touriga Nacional|Viognier|Zinfandel
+114,Fiddletown,California,"1983, amended in 1987",,,Grenache|Petite Sirah|Zinfandel|Barbera
+115,North Yuba,California,1985,30 square miles (78 km2),,Cabernet Franc|Cabernet Sauvignon|Chardonnay|Grenache|Malbec|Merlot|Pinot noir|Riesling|Sangiovese|Sauvignon blanc|Semillon|Syrah|Zinfandel
+116,Sierra Foothills,California,1987,"2,600,000 acres (10,522 km2)",Mediterranean,Zinfandel|Cabernet Sauvignon|Syrah|Chardonnay|Merlot|Barbera
+117,Manton Valley,California,,,,
+118,Antelope Valley of the California High Desert,California,2010,"665 square miles (1,720 km2)",Arid,Tempranillo|Zinfandel|Syrah|Viognier
+119,Cucamonga Valley,California,1985,"1,000 acres (4 km2)",Mediterranean,Aleatico|Alicante Bouschet|Cabernet Franc|Cabernet Sauvignon|Chasselas|Grenache|Merlot|Mission|Mourvedre|Palomino|Pedro Ximenes|Petite Sirah|Syrah|Zinfandel
+120,Leona Valley,California,,,,
+121,Malibu-Newton Canyon,California,1996,850 acres (344 ha),Mediterranean,Cabernet Franc|Cabernet Sauvignon|Chardonnay|Viognier|Merlot|Petit Verdot|Orange Muscat
+122,Malibu Coast,California,,,,
+123,Ramona Valley,California,2006,"89,000 acres (360 km2) ",Mediterranean,Cabernet Sauvignon|Petite Sirah|Tempranillo|Syrah|Barbera|Zinfandel
+124,Saddle Rock-Malibu,California,2006,"2,100 acres (8 km2)",Mediterranean,
+125,San Pasqual Valley,California,1981,"9,000 acres (3,642 ha)",Mediterranean,Merlot|Sangiovese|Syrah|Viognier
+126,Sierra Pelona Valley,California,2010,9.7 square miles (25 km2),Arid,
+127,South Coast,California,1985,"3,000 acres (12 km2)",Mediterranean,Cabernet Franc|Cabernet Sauvignon|Chardonnay|Lenoir|Merlot|Montepulciano|Muscat Canelli|Petit Verdot|Petite Sirah|Pinot gris|Riesling|Sangiovese|Sauvignon blanc|Symphony|Syrah|Tempranillo|Trebbiano|Viognier|Zinfandel
+128,Temecula Valley,California,"1984 (amended in 1986, 1987, and 2004)","33,000 acres (134 km2)","Mediterranean, Semi-arid",Black Muscat|Cabernet Franc|Cabernet Sauvignon|Chardonnay|Chenin blanc|Cinsault|Cortese|Dolcetto|Gamay noir|Gewurztraminer|Malbec|Merlot|Mourvedre|Muscat Canelli|Muscat of Alexandria|Nebbiolo|Orange Muscat|Palomino|Petit Verdot|Petite Sirah|Pinot gris|Pinot noir|Riesling|Roussanne|Rubired|Sangiovese|Sauvignon blanc|Semillon|Syrah|Tannat|Viognier|Zinfandel
+129,Grand Valley,Colorado,1991,"75,990 acres (30,752 ha)",Continental,Black Muscat|Cabernet Franc|Cabernet Sauvignon|Chardonnay|Cinsault|Gewurztraminer|Malbec|Merlot|Muscat Ottonel|Orange Muscat|Pinot gris|Riesling|Rkatsiteli|Sangiovese|Sauvignon blanc|Semillon|Syrah|Viognier
+130,West Elks,Colorado,2001,"48,000 acres (19,425 ha)",Continental,Riesling|Pinot noir|Chambourcin|Pinot gris|Chardonnay|Gewurztraminer|Merlot|Cabernet Franc
+131,Southeastern New England,Connecticut,1984,"1,875,200 acres (758,867 ha)",Continental/maritime,Albariño|Baco noir|Cabernet Franc|Cabernet Sauvignon|Cayuga|Chancellor|Chardonnay|Diamond|Gewurztraminer|Lemberger|Marechal Foch|Merlot|Pinot gris|Pinot noir|Riesling|Sauvignon blanc|Seyval blanc|Vidal blanc|Vignoles
+132,Western Connecticut Highlands,Connecticut,1988,"1,004,550 acres (406,527 ha)",Continental,Cabernet Franc|Chardonnay|Merlot|Pinot noir|Seyval blanc|Vidal blanc
+133,Upper Hiwassee Highlands,Georgia,2014,690 square miles,Humid subtropical/maritime,Vidal Blanc|Chambourcin|Cabernet Sauvignon|Chardonnay
+134,Dahlonega Plateau,Georgia,,,,
+135,Snake River Valley,Idaho,2007,"8,263 square miles (21,401 km2), 5,280,000 acres (2,140,000 ha) ",Continental,Cabernet Franc|Cabernet Sauvignon|Canadice|Chardonnay|Cinsault|Gewurztraminer|Grenache|Lemberger|Malbec|Merlot|Mourvedre|Riesling|Syrah
+136,Eagle Foothills,Idaho,,,,Cabernet Sauvignon|Merlot|Syrah|Mourvedre|Chardonnay|Riesling
+137,Lewis-Clark Valley,Idaho,,,,Cabernet Sauvignon|Cabernet Franc|Merlot|Chardonnay|Syrah|Viogner
+138,Shawnee Hills,Illinois,2006,"1,370,000 acres (5,500 km2)",Continental/humid subtropical,Cabernet Franc|Chambourcin|Chancellor|Chardonel|Frontenac|Riesling|Traminette
+139,Upper Mississippi River Valley,Illinois,2009,"19,144,960 acres (29,914 sq mi) (67,300 sq km)",Continental,Chardonel|Edelweiss|La Crosse|Marechal Foch|Frontenac|Marquette|Saint Croix
+140,Indiana Uplands,Indiana,,,,Chambourcin|Ravat Vignoles|Chardonel|Traminette
+141,Ohio River Valley,Indiana,"69, amended in 1987","16,640,000 acres (26,000 sq mi) (67,300 sq km)",Continental/humid subtropical,Cabernet Franc|Cabernet Sauvignon|Catawba|Cayuga|Chambourcin|Chardonnay|Concord|De Chaunac|Marechal Foch|Melon|Merlot|Niagara|Pinot blanc|Pinot gris|Pinot noir|Reliance|Riesling|Rougeon|Roussanne|Sauvignon blanc|Sémillon|Seyval blanc|Steuben|Syrah|Traminette|Vidal blanc|Viognier
+142,Upper Mississippi River Valley,Iowa,2009,"19,144,960 acres (29,914 sq mi) (67,300 sq km)",Continental,Chardonel|Edelweiss|La Crosse|Marechal Foch|Frontenac|Marquette|Saint Croix
+143,Ohio River Valley,Kentucky,"69, amended in 1987","16,640,000 acres (26,000 sq mi) (67,300 sq km)",Continental/humid subtropical,Cabernet Franc|Cabernet Sauvignon|Catawba|Cayuga|Chambourcin|Chardonnay|Concord|De Chaunac|Marechal Foch|Melon|Merlot|Niagara|Pinot blanc|Pinot gris|Pinot noir|Reliance|Riesling|Rougeon|Roussanne|Sauvignon blanc|Sémillon|Seyval blanc|Steuben|Syrah|Traminette|Vidal blanc|Viognier
+144,Mississippi Delta,Louisiana,1984,"3,840,000 acres (1,553,993 ha)",Humid subtropical,Muscadine
+145,Catoctin,Maryland,"1983, amended in 1987","170,000 acres (68,797 ha)",Continental/humid subtropical,Barbera|Albariño|Tannat|Cabernet Sauvignon|Cabernet Franc|Muscat Canelli|Pinot noir|Riesling|Vidal blanc
+146,Cumberland Valley,Maryland,"1985, amended in 1987","765,000 acres (309,585 ha)",Continental,Chardonnay|Cabernet Franc|Vidal Blanc|Niagara
+147,Linganore,Maryland,1983,"57,600 acres (23,310 ha)",Continental/humid subtropical,Cabernet Sauvignon|Chambourcin|Chardonel|Traminette
+148,Martha's Vineyard,Massachusetts,1985,"64,000 acres (25,900 ha)",Maritime,
+149,Southeastern New England,Massachusetts,1984,"1,875,200 acres (758,867 ha)",Continental/maritime,Albariño|Baco noir|Cabernet Franc|Cabernet Sauvignon|Cayuga|Chancellor|Chardonnay|Diamond|Gewurztraminer|Lemberger|Marechal Foch|Merlot|Pinot gris|Pinot noir|Riesling|Sauvignon blanc|Seyval blanc|Vidal blanc|Vignoles
+150,Fennville,Michigan,1981,"75,000 acres (30,351 ha)",Continental,Cabernet Franc|Chardonel
+151,Lake Michigan Shore,Michigan,"1983, amended in 1987","1,280,000 acres (5,180 km2)",Continental,Cabernet Franc|Cabernet Sauvignon|Chancellor|Chardonnay|Chelois|De Chaunac|Gewurztraminer|Lemberger|Malbec|Marsanne|Merlot|Müller-Thurgau|Petit Verdot|Pinot gris|Pinot noir|Riesling|Roussanne|Seyval blanc|St. Vincent|Syrah|Traminette|Vidal blanc|Vignoles|Viognier
+152,Leelanau Peninsula,Michigan,1982,"75,000 acres (30,351 ha)",Continental,Aurore|Auxerrois|Bianca|Cabernet Franc|Cabernet Sauvignon|Cayuga|Chardonnay|De Chaunac|Dolcetto|Gewurztraminer|Malbec|Marechal Foch|Merlot|Pinot gris|Pinot noir|Riesling|Seyval blanc|Traminette|Vignoles
+153,Old Mission Peninsula,Michigan,1987,"19,200 acres (7,770 ha)",Continental,Cabernet Franc|Cabernet Sauvignon|Chardonnay|Gamay noir|Gewurztraminer|Malbec|Merlot|Muscat Ottonel|Pinot blanc|Pinot gris|Pinot noir|Riesling
+154,Tip of the Mitt,Michigan,2016,"1,754,448 acres (7,100 km2)",Continental,Frontenac|Marquette|La Crescent
+155,Alexandria Lakes,Minnesota,2005,"10,800 acres (4,371 ha)",Continental,Frontenac|La Crescent|Traminette
+156,Upper Mississippi River Valley,Minnesota,2009,"19,144,960 acres (29,914 sq mi) (67,300 sq km)",Continental,Chardonel|Edelweiss|La Crosse|Marechal Foch|Frontenac|Marquette|Saint Croix
+157,Mississippi Delta,Mississippi,1984,"3,840,000 acres (1,553,993 ha)",Humid subtropical,Muscadine
+158,Augusta,Missouri,1980,15 square miles (39 km2),Continental,Cabernet Sauvignon|Chambourcin|Chardonel|Chardonnay|Couderc noir|Norton|Rayon d'Or|Seyval blanc|St. Vincent|Vidal blanc|Vignoles
+159,Hermann,Missouri,"1983, amended 1987","51,200 acres (20,720 ha)",Continental,Chambourcin|Norton|Seyval blanc|St. Vincent|Steuben|Traminette|Vidal blanc|Vignoles
+160,Ozark Highlands,Missouri,1987,"1,280,000 acres (517,998 ha)",Continental,Chardonel|Frontenac|Norton|St. Vincent|Vidal blanc|Vignoles
+161,Ozark Mountain,Missouri,"1986, amended 1988","3,520,000 acres (1,424,493 ha)",Continental/humid subtropical,Catawba|Chambourcin|Chardonel|Concord|Norton|St. Vincent|Vidal blanc|Vignoles|Villard noir
+162,Cape May Peninsula,New Jersey,2018,"126,635 acres (51,000 ha)",Humid subtropical/continental,
+163,Central Delaware Valley,New Jersey,"1984, amended in 1987","96,000 acres (38,850 ha)",Continental,Chardonnay|Riesling|Cabernet Sauvignon|Delaware
+164,Outer Coastal Plain,New Jersey,2007,"2,250,000 acres (911,000 ha)",Humid subtropical/continental,Chardonnay|Cabernet Sauvignon|Vidal|Chambourcin
+165,Warren Hills,New Jersey,1988,"144,640 acres (58,534 ha)",Continental,Vidal Blanc|Seyval Blanc|Pinot Noir|Chardonnay
+166,Mesilla Valley,New Mexico,1985,"280,000 acres (1,133 km2)",,Black Muscat|Cabernet Sauvignon|Chardonnay|Dolcetto|Malvasia|Merlot|Mourvedre|Muscat of Alexandria|Primitivo|Riesling|Sangiovese|Viognier|Zinfandel
+167,Middle Rio Grande Valley,New Mexico,1988,"278,400 acres (112,664 ha)",Continental,Zinfandel|Cabernet Sauvignon|Syrah|Riesling
+168,Mimbres Valley,New Mexico,1985,"636,800 acres (257,704 ha)",Arid,Cabernet Sauvignon|Chardonnay|Merlot|Syrah
+169,Cayuga Lake,New York,1988,460 acres (186 ha),Continental,Baco noir|Cabernet Franc|Cabernet Sauvignon|Catawba|Cayuga|Chambourcin|Chancellor|Chardonnay|Concord|Delaware|Diamond|Gewurztraminer|Isabella|Ives noir|Lemberger|Marechal Foch|Melody|Merlot|Niagara|Pinot gris|Pinot noir|Riesling|Sangiovese|Seyval blanc|Syrah|Traminette|Vidal blanc|Vignoles|Viognier
+170,Finger Lakes,New York,"1982, amended in 1987","2,600,000 acres (1,052,183 ha)",Continental,Baco noir|Cabernet Franc|Cabernet Sauvignon|Catawba|Cayuga White|Chambourcin|Chancellor|Chardonnay|Chelois|Colobel|Concord|Corot noir|De Chaunac|Delaware|Diamond|Dornfelder|Gamay noir|Geisenheim|Gewürztraminer|Himrod|Isabella|Ives noir|Lakemont|Lemberger|Leon Millot|Malbec|Marechal Foch|Melody|Merlot|Muscat Canelli|Muscat Ottonel|Niagara|Noiret|Pinot blanc|Pinot gris|Pinot Meunier|Pinot noir|Riesling|Rkatsiteli|Rougeon|Saperavi|Sauvignon blanc|Sereksiya Charni|Severnyi|Seyval blanc|Siegfried|St. Vincent|Syrah|Traminette|Verdelet|Vidal blanc|Vignoles|Villard noir|Villard blanc|Vincent|Viognier
+171,Hudson River Region,New York,1982,"224,000 acres (90,650 ha)",Continental,Baco noir|Cabernet Franc|Cabernet Sauvignon|Cayuga|Chambourcin|Chancellor|Chardonnay|Chelois|De Chaunac|Frontenac|Lemberger|Marechal Foch|Merlot|Pinot noir|Riesling|Seyval blanc|St. Pepin|Traminette|Vidal blanc
+172,Lake Erie,New York,1983,"2,236,800 acres (905,200 ha)",Continental,Aurore|Auxerrois|Baco noir|Cabernet Franc|Cabernet Sauvignon|Catawba|Cayuga|Chambourcin|Chancellor|Chardonnay|Concord|De Chaunac|Delaware|Diamond|Edelweiss|Fredonia|Gewurztraminer|Ives noir|Lemberger|Leon Millot|Marechal Foch|Merlot|Niagara|Pinot gris|Pinot noir|Riesling|Seyval blanc|Steuben|Touriga Nacional|Traminette|Vidal blanc|Vignoles
+173,Long Island,New York,2001,"749,146 acres (303,169 ha)",Maritime/continental/humid subtropical,Cabernet Franc|Cabernet Sauvignon|Chardonnay|Chardonnay Musque|Merlot|Niagara|Petit Verdot|Pinot gris|Pinot noir|Sauvignon blanc|Tocai Friulano
+174,Niagara Escarpment,New York,2005,"18,000 acres (7,284 ha)",Continental,Baco noir|Cabernet Franc|Cabernet Sauvignon|Catawba|Chancellor|Chardonnay|Concord|Diamond|Merlot|Niagara|Pinot noir|Riesling|Seyval blanc|Siegfried|Steuben|Syrah|Malbec|Vidal blanc
+175,North Fork of Long Island,New York,1988,"1,014,400 acres (410,513 ha)",Maritime,Cabernet Franc|Cabernet Sauvignon|Chardonnay|Chardonnay Musque|Gamay Beaujolais|Gewurztraminer|Malbec|Merlot|Petit Verdot|Pinot blanc|Pinot Meunier|Pinot noir|Riesling|Sangiovese|Sauvignon blanc|Semillon|Syrah|Viognier
+176,Seneca Lake,New York,"1988, amended 2003","204,600 acres (82,799 ha)",Continental,Baco noir|Cabernet Franc|Cabernet Sauvignon|Catawba|Cayuga|Chardonnay|Delaware|Gewurztraminer|Melody|Merlot|Niagara|Pinot noir|Riesling|Sangiovese
+177,"The Hamptons, Long Island",New York,1988,"136,448 acres (55,219 ha)",Maritime,Aligote|Cabernet Franc|Cabernet Sauvignon|Chardonnay|Dornfelder|Gewurztraminer|Lemberger|Merlot|Muscat Ottonel|Pinot blanc|Pinot gris|Pinot Meunier|Pinot noir|Sauvignon blanc|Semillon|Tocai Friulano
+178,Champlain Valley of New York,New York,,,,
+179,Upper Hudson,New York,"July 30, 2015 accepted as perfected",1650 square miles,Continental,Marquette|Frontenac|La Crosse|Cayuga|Melody
+180,Appalachian High Country,North Carolina,,,,
+181,Haw River Valley,North Carolina,,,,Cabernet Franc|Syrah|Chardonnay|Traminette
+182,Swan Creek,North Carolina,2008,180 square miles (470 km2),Humid subtropical,Chambourcin|Petit Verdot|Traminette|Viognier|Montepulciano|Sangiovese|Pinot Grigio|Vermentino
+183,Upper Hiwassee Highlands,North Carolina,2014,690 square miles,Humid subtropical/maritime,Vidal Blanc|Chambourcin|Cabernet Sauvignon|Chardonnay
+184,Yadkin Valley,North Carolina,2002,"1,400,000 acres (5,666 km2)",Humid subtropical/maritime in highlands,Aleatico|Barbera|Cabernet Franc|Cabernet Sauvignon|Chambourcin|Chardonnay|Malbec|Malvasia|Merlot|Montepulciano|Muscat Canelli|Nebbiolo|Niagara|Petit Verdot|Pinot gris|Pinot noir|Riesling|Sangiovese|Cynthiana/Norton|Sauvignon blanc|Seyval blanc|Syrah|Vermentino|Viognier
+185,Lake Erie,Ohio,1983,"2,236,800 acres (905,200 ha)",Continental,Aurore|Auxerrois|Baco noir|Cabernet Franc|Cabernet Sauvignon|Catawba|Cayuga|Chambourcin|Chancellor|Chardonnay|Concord|De Chaunac|Delaware|Diamond|Edelweiss|Fredonia|Gewurztraminer|Ives noir|Lemberger|Leon Millot|Marechal Foch|Merlot|Niagara|Pinot gris|Pinot noir|Riesling|Seyval blanc|Steuben|Touriga Nacional|Traminette|Vidal blanc|Vignoles
+186,Grand River Valley,Ohio,1983,"125,000 acres (50,586 ha)",Continental,Cabernet Franc|Chambourcin|Chardonnay|Gewurztraminer|Merlot|Niagara|Pinot gris|Pinot noir|Riesling|Vidal blanc
+187,Isle St. George,Ohio,1982,640 acres (259 ha),Continental,Cabernet Sauvignon|Catawba|Chardonnay|Concord|Gewürztraminer|Pinot gris|Pinot noir|Riesling
+188,Loramie Creek,Ohio,1982,"3,600 acres (1,457 ha)",Continental,Baco Noir
+189,Ohio River Valley,Ohio,"69, amended in 1987","16,640,000 acres (26,000 sq mi) (67,300 sq km)",Continental/humid subtropical,Cabernet Franc|Cabernet Sauvignon|Catawba|Cayuga|Chambourcin|Chardonnay|Concord|De Chaunac|Marechal Foch|Melon|Merlot|Niagara|Pinot blanc|Pinot gris|Pinot noir|Reliance|Riesling|Rougeon|Roussanne|Sauvignon blanc|Sémillon|Seyval blanc|Steuben|Syrah|Traminette|Vidal blanc|Viognier
+190,Ozark Mountain,Oklahoma,"1986, amended 1988","3,520,000 acres (1,424,493 ha)",Continental/humid subtropical,Catawba|Chambourcin|Chardonel|Concord|Norton|St. Vincent|Vidal blanc|Vignoles|Villard noir
+191,Applegate Valley,Oregon,2000,27 acres (0 km2),Maritime,Cabernet Franc|Cabernet Sauvignon|Chardonnay|Merlot|Riesling|Syrah|Tempranillo|Zinfandel
+192,Chehalem Mountains,Oregon,2006,"1,600 acres (647 ha)","Woodland, Pacific Northwest, Maritime",Chardonnay|Pinot blanc|Pinot gris|Pinot noir|Riesling|Syrah|Auxerrois blanc
+193,Columbia Gorge,Oregon,2004,"4,432 acres (1,794 ha)",Maritime/continental,Barbera|Cabernet Sauvignon|Chardonnay|Chenin blanc|Gewurztraminer|Lemberger|Merlot|Pinot blanc|Pinot gris|Pinot noir|Sangiovese|Sauvignon blanc|Syrah|Tempranillo|Viognier|Zinfandel
+194,Columbia Valley,Oregon,1984,"11,000,000 acres (4,500,000 ha)",Continental/Mediterranean,Barbera|Black Muscat|Cabernet Franc|Cabernet Sauvignon|Carmenere|Chardonnay|Chenin blanc|Counoise|Gamay Beaujolais|Gamay noir|Gewurztraminer|Grenache|Lemberger|Malbec|Marsanne|Merlot|Morio Muskat|Mourvedre|Muscadelle|Muscat Canelli|Nebbiolo|Orange Muscat|Petit Verdot|Petite Sirah|Pinot blanc|Pinot gris|Pinot Meunier|Pinot noir|Riesling|Roussanne|Royalty|Sangiovese|Sauvignon blanc|Semillon|Siegerrebe|Syrah|Viognier|Zinfandel
+195,Dundee Hills,Oregon,2004,"6,490 acres (2,626 ha)",Maritime,Chardonnay|Müller-Thurgau|Pinot blanc|Pinot gris|Pinot noir|Riesling
+196,Elkton Oregon,Oregon,,,,
+197,Eola-Amity Hills,Oregon,2006,"39,045 acres (15,801 ha)",Maritime,
+198,McMinnville,Oregon,2005,"40,500 acres (16,390 ha)",Maritime,Pinot blanc|Pinot gris|Pinot noir|Riesling
+199,Red Hill Douglas County,Oregon,2005,"5,500 acres (2,226 ha)",Maritime,Pinot Noir|Chardonnay|Riesling
+200,Ribbon Ridge,Oregon,2005,"3,350 acres (1,356 ha)",Maritime,Auxerrois Blanc|Chardonnay|Muscat Canelli|Pinot gris|Pinot noir|Gamay Noir
+201,Rogue Valley,Oregon,2000,"1,100 acres (450 ha)",Maritime,Cabernet Franc|Cabernet Sauvignon|Chardonnay|Dolcetto|Gewurztraminer|Grenache|Malbec|Merlot|Pinot blanc|Pinot gris|Pinot noir|Sangiovese|Sauvignon blanc|Semillon|Syrah|Tempranillo|Viognier
+202,Snake River Valley,Oregon,2007,"8,263 square miles (21,401 km2), 5,280,000 acres (2,140,000 ha) ",Continental,Cabernet Franc|Cabernet Sauvignon|Canadice|Chardonnay|Cinsault|Gewurztraminer|Grenache|Lemberger|Malbec|Merlot|Mourvedre|Riesling|Syrah
+203,Southern Oregon,Oregon,2004,"2,001,430 acres (8,099 km2)",Maritime/Mediterranean,Albarino|Bastardo|Cabernet Franc|Cabernet Sauvignon|Chardonnay|Dolcetto|Grenache|Malbec|Merlot|Petit Verdot|Petite Sirah|Syrah|Tempranillo|Viognier
+204,The Rocks District of Milton-Freewater,Oregon,2015,"3,770 acres (1,526 ha)",Arid,Syrah
+205,Umpqua Valley,Oregon,1984,,Maritime,Baco noir|Cabernet Franc|Cabernet Sauvignon|Chardonnay|Dolcetto|Gewurztraminer|Grenache|Malbec|Merlot|Muscat Canelli|Pinot blanc|Pinot gris|Pinot noir|Riesling|Sauvignon blanc|Semillon|Syrah|Tempranillo
+206,Walla Walla Valley,Oregon,"1984, amended 2001","1,200 acres (486 ha)",Continental/Mediterranean,Barbera|Cabernet Franc|Cabernet Sauvignon|Carmenere|Chardonnay|Cinsault|Counoise|Dolcetto|Gewurztraminer|Malbec|Merlot|Nebbiolo|Petit Verdot|Pinot noir|Sangiovese|Semillon|Syrah|Viognier
+207,Willamette Valley,Oregon,1984,"3,300,000 acres (13,355 km2)",I/Maritime,Auxerrois|Cabernet Franc|Cabernet Sauvignon|Cascade|Chardonnay|Dolcetto|Early Muscat|Gamay noir|Gewurztraminer|Malbec|Marechal Foch|Melon|Merlot|Müller-Thurgau|Muscat Canelli|Muscat Ottonel|Pinot blanc|Pinot gris|Pinot noir|Riesling|Sauvignon blanc|Syrah|Tocai Friulano|Viognier
+208,Van Duzer Corridor,Oregon,,,,
+209,Yamhill-Carlton District,Oregon,2004,"60,000 acres (24,281 ha)",Maritime,Chardonnay|Dolcetto|Early Muscat|Muscat Ottonel|Pinot blanc|Pinot gris|Pinot Meunier|Pinot noir
+210,Central Delaware Valley,Pennsylvania,"1984, amended in 1987","96,000 acres (38,850 ha)",Continental,Chardonnay|Riesling|Cabernet Sauvignon|Delaware
+211,Cumberland Valley,Pennsylvania,"1985, amended in 1987","765,000 acres (309,585 ha)",Continental,Chardonnay|Cabernet Franc|Vidal Blanc|Niagara
+212,Lake Erie,Pennsylvania,1983,"2,236,800 acres (905,200 ha)",Continental,Aurore|Auxerrois|Baco noir|Cabernet Franc|Cabernet Sauvignon|Catawba|Cayuga|Chambourcin|Chancellor|Chardonnay|Concord|De Chaunac|Delaware|Diamond|Edelweiss|Fredonia|Gewurztraminer|Ives noir|Lemberger|Leon Millot|Marechal Foch|Merlot|Niagara|Pinot gris|Pinot noir|Riesling|Seyval blanc|Steuben|Touriga Nacional|Traminette|Vidal blanc|Vignoles
+213,Lancaster Valley,Pennsylvania,1984,"225,000 acres (91,054 ha)",Continental,Cabernet Franc|Catawba|Cayuga|Chambourcin|Chancellor|De Chaunac|Merlot|Niagara|Seyval blanc|Vidal blanc|Vignoles
+214,Lehigh Valley,Pennsylvania,2008,230 acres (93 ha),Continental,Cabernet Sauvignon|Chambourcin|Chardonnay|Pinot noir|Riesling|Vidal blanc
+215,Southeastern New England,Rhode Island,1984,"1,875,200 acres (758,867 ha)",Continental/maritime,Albariño|Baco noir|Cabernet Franc|Cabernet Sauvignon|Cayuga|Chancellor|Chardonnay|Diamond|Gewurztraminer|Lemberger|Marechal Foch|Merlot|Pinot gris|Pinot noir|Riesling|Sauvignon blanc|Seyval blanc|Vidal blanc|Vignoles
+216,Mississippi Delta,Tennessee,1984,"3,840,000 acres (1,553,993 ha)",Humid subtropical,Muscadine
+217,Bell Mountain,Texas,1986,"3,200 acres (13 km2)",Humid subtropical,Cabernet Franc|Cabernet Sauvignon|Chardonnay|Chenin blanc|Colombard
+218,Escondido Valley,Texas,1992,"32,000 acres (129 km2)",,Cabernet Franc|Cabernet Sauvignon|Chardonnay|Chenin blanc|Colombard
+219,Fredericksburg in the Texas Hill Country,Texas,1988,"70,400 acres (285 km2)",Humid subtropical,Black Muscat|Chardonnay|Sauvignon blanc
+220,Mesilla Valley,Texas,1985,"280,000 acres (1,133 km2)",,Black Muscat|Cabernet Sauvignon|Chardonnay|Dolcetto|Malvasia|Merlot|Mourvedre|Muscat of Alexandria|Primitivo|Riesling|Sangiovese|Viognier|Zinfandel
+221,Texas Davis Mountains,Texas,1998,"270,000 acres (1,093 km2)",Continental,Cabernet Sauvignon|Sauvignon blanc
+222,Texas High Plains,Texas,1993,"8,000,000 acres (32,375 km2)",Continental,Aglianico|Barbera|Cabernet Franc|Cabernet Sauvignon|Chardonnay|Chenin blanc|Grenache|Malbec|Merlot|Montepulciano|Muscat Canelli|Orange Muscat|Pinot noir|Roussanne|Sangiovese|Sauvignon blanc|Syrah|Tempranillo|Viognier
+223,Texas Hill Country,Texas,1991,"9,000,000 acres (36,422 km2)",Humid subtropical,Alicante Bouschet|Aglianico|Barbera|Blanc du Bois|Cabernet Franc|Cabernet Sauvignon|Chardonnay|Colombard|Malbec|Merlot|Muscat Canelli|Norton|Petit Verdot|Pinot noir|Primitivo|Riesling|Sangiovese|Sauvignon blanc|Semillon|Syrah|Tannat|Tempranillo|Tinta Madeira|Touriga Nacional|Trebbiano|Viognier
+224,Texoma,Texas,2005,"270,000 acres (1,093 km2)",Humid subtropical,Cabernet Sauvignon|Merlot|Pinot Noir|Chardonnay
+225,Middleburg,Virginia,"September 13, 2012; 6 years ago (2012-09-13)","126,720 acres (51,282 ha)",Humid subtropical,Merlot|Chardonnay|Cabernet Franc|Nebbiolo|Cabernet Sauvignon|Riesling
+226,Monticello,Virginia,1984,"800,000 acres (323,749 ha)",Humid subtropical/maritime in highlands,Cabernet Franc|Cabernet Sauvignon|Chambourcin|Chardonnay|Gewurztraminer|Malbec|Merlot|Muscat Canelli|Muscat of Alexandria|Norton|Orange Muscat|Petit Manseng|Petit Verdot|Pinot gris|Pinot noir|Riesling|Rkatsiteli|Sauvignon blanc|Seyval blanc|Syrah|Tannat|Touriga Nacional|Traminette|Vidal blanc|Viognier|Zinfandel
+227,North Fork of Roanoke,Virginia,"1983, amended in 1987",,Maritime/humid subtropical,Alicante Bouschet|Cabernet Franc|Cabernet Sauvignon|Chardonnay|Malbec|Merlot|Norton|Petit Verdot|Sangiovese|Syrah|Viognier
+228,Northern Neck George Washington Birthplace,Virginia,1987,"590,080 acres (238,797 ha)",Humid subtropical,Cabernet Franc|Cabernet Sauvignon|Chambourcin|Chardonnay|Seyval blanc|Vidal blanc
+229,Rocky Knob,Virginia,"1983, amended 1987","9,000 acres (3,642 ha)",Maritime,Seyval blanc
+230,Shenandoah Valley,Virginia,"1982, amended 1987","2,400,000 acres (971,246 ha)",Humid subtropical/maritime/continental,Cabernet Franc|Chambourcin|Chardonnay|Gewurztraminer|Riesling|Traminette|Viognier|Norton|Cabernet Sauvignon|Merlot
+231,Virginia's Eastern Shore,Virginia,1991,70 acres (28 ha),Humid subtropical,Chardonnay|Merlot
+232,Ancient Lakes of the Columbia Valley,Washington,October 2012,"162,762 acres",,Riesling|Pinot Gris|Chardonnay|Syrah|Merlot
+233,Columbia Gorge,Washington,2004,"4,432 acres (1,794 ha)",Maritime/continental,Barbera|Cabernet Sauvignon|Chardonnay|Chenin blanc|Gewurztraminer|Lemberger|Merlot|Pinot blanc|Pinot gris|Pinot noir|Sangiovese|Sauvignon blanc|Syrah|Tempranillo|Viognier|Zinfandel
+234,Columbia Valley,Washington,1984,"11,000,000 acres (4,500,000 ha)",Continental/Mediterranean,Barbera|Black Muscat|Cabernet Franc|Cabernet Sauvignon|Carmenere|Chardonnay|Chenin blanc|Counoise|Gamay Beaujolais|Gamay noir|Gewurztraminer|Grenache|Lemberger|Malbec|Marsanne|Merlot|Morio Muskat|Mourvedre|Muscadelle|Muscat Canelli|Nebbiolo|Orange Muscat|Petit Verdot|Petite Sirah|Pinot blanc|Pinot gris|Pinot Meunier|Pinot noir|Riesling|Roussanne|Royalty|Sangiovese|Sauvignon blanc|Semillon|Siegerrebe|Syrah|Viognier|Zinfandel
+235,Horse Heaven Hills,Washington,2005,"570,000 acres (230,671 ha)",Continental/maritime,Barbera|Cabernet Franc|Cabernet Sauvignon|Chenin blanc|Grenache|Malbec|Marsanne|Merlot|Mourvedre|Petit Verdot|Riesling|Roussanne|Sauvignon blanc|Syrah|Viognier|Zinfandel
+236,Lake Chelan,Washington,,"24,040 acres (9,730 ha)",,
+237,Lewis-Clark Valley,Washington,,,,Cabernet Sauvignon|Cabernet Franc|Merlot|Chardonnay|Syrah|Viogner
+238,Naches Heights,Washington,2012,"13,254 acres (53.64 km2)",Continental,Cabernet Franc|Cabernet Sauvignon|Malbec|Merlot|Petite Verdot|Semillon|Sauvignon blanc|Syrah|Mourvedre|Viognier|Barbera|Nebbiolo|Sangiovese|Sagrantino|Pinot grigio|White Muscat|Souzao|Tinta Cao|Touriga Nacional|Tinta Roriz
+239,Puget Sound,Washington,1995,100 acres (40 ha),"Temperate, Maritime",Madeleine Angevine|Madeleine Sylvaner|Müller-Thurgau|Pinot gris|Pinot noir|Siegerrebe
+240,Rattlesnake Hills,Washington,2006,"68,500 acres (27,721 ha)",Region II,Cabernet Franc|Cabernet Sauvignon|Chardonnay|Chenin blanc|Gewurztraminer|Malbec|Merlot|Muscat Canelli|Petite Sirah|Riesling|Semillon|Viognier
+241,Red Mountain,Washington,2001,"4,040 acres (1,630 ha)",Continental,Cabernet Franc|Cabernet Sauvignon|Chardonnay|Counoise|Gewurztraminer|Lemberger|Malbec|Merlot|Mourvedre|Nebbiolo|Petit Verdot|Pinot gris|Riesling|Roussanne|Sauvignon blanc|Semillon|Syrah|Viognier
+242,Snipes Mountain,Washington,2009,"4,145 acres (1,677 ha)",Region II,Cabernet Sauvignon|Pinot noir|Semillon|Syrah
+243,Wahluke Slope,Washington,2006,"81,000 acres (330 km2)",Dry & warm,Cabernet Franc|Cabernet Sauvignon|Chardonnay|Gewurztraminer|Grenache|Merlot|Mourvedre|Petit Verdot|Sangiovese|Sauvignon blanc|Syrah|Viognier|Zinfandel
+244,Walla Walla Valley,Washington,"1984, amended 2001","1,200 acres (486 ha)",Continental/Mediterranean,Barbera|Cabernet Franc|Cabernet Sauvignon|Carmenere|Chardonnay|Cinsault|Counoise|Dolcetto|Gewurztraminer|Malbec|Merlot|Nebbiolo|Petit Verdot|Pinot noir|Sangiovese|Semillon|Syrah|Viognier
+245,The Rocks District of Milton-Freewater,Washington,2015,"3,770 acres (1,526 ha)",Arid,Syrah
+246,Yakima Valley,Washington,1983,"600,000 acres (2,400 km2)",Continental,Aligote|Barbera|Black Muscat|Cabernet Franc|Cabernet Sauvignon|Chardonnay|Chenin blanc|Gamay Beaujolais|Gewurztraminer|Grenache|Lemberger|Malbec|Marsanne|Merlot|Mourvedre|Muscat Canelli|Orange Muscat|Petit Verdot|Petite Sirah|Pinot gris|Pinot noir|Riesling|Roussanne|Sangiovese|Sauvignon blanc|Semillon|Syrah|Viognier|Zinfandel
+247,Kanawha River Valley,West Virginia,1986,"64,000 acres (25,900 ha)",Humid subtropical/continental,
+248,Ohio River Valley,West Virginia,"69, amended in 1987","16,640,000 acres (26,000 sq mi) (67,300 sq km)",Continental/humid subtropical,Cabernet Franc|Cabernet Sauvignon|Catawba|Cayuga|Chambourcin|Chardonnay|Concord|De Chaunac|Marechal Foch|Melon|Merlot|Niagara|Pinot blanc|Pinot gris|Pinot noir|Reliance|Riesling|Rougeon|Roussanne|Sauvignon blanc|Sémillon|Seyval blanc|Steuben|Syrah|Traminette|Vidal blanc|Viognier
+249,Shenandoah Valley,West Virginia,"1982, amended 1987","2,400,000 acres (971,246 ha)",Humid subtropical/maritime/continental,Cabernet Franc|Chambourcin|Chardonnay|Gewurztraminer|Riesling|Traminette|Viognier|Norton|Cabernet Sauvignon|Merlot
+250,Lake Wisconsin,Wisconsin,1994,"28,000 acres (11,331 ha)",Continental,La Crosse|Léon Millot|Marechal Foch|St. Pepin
+251,Upper Mississippi River Valley,Wisconsin,2009,"19,144,960 acres (29,914 sq mi) (67,300 sq km)",Continental,Chardonel|Edelweiss|La Crosse|Marechal Foch|Frontenac|Marquette|Saint Croix
+252,Wisconsin Ledge,Wisconsin,2012,"3,800 sq mi (9,800 km2)",Continental,Frontenac|Niagara|Marechal Foch
