@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Wines USA 2019</title>
+  <link href="https://fonts.googleapis.com/css?family=Lora|Open+Sans" rel="stylesheet"> 
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link href="/static/style.css" rel="stylesheet"> 
+  <!-- Font Awesome JS -->
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/solid.js" integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/fontawesome.js" integrity="sha384-6OIrr52G08NpOFSZdxxz1xdNSndlD4vdcf/q2myIUVO0VsqaGHJsB0RaBE01VTOY" crossorigin="anonymous"></script>
+	
+	
+</head>
+
+<body>
+  
+    <div class="jumbotron text-center jumbotron-fluid">
+      <h1>Wines USA</h1>
+      <!--<p><a class="btn btn-primary btn-lg" href="/scrape" role="button" >GET THE LATEST</a></p>-->
+    </div>
+    
+    <div class="wrapper">
+        <!-- Sidebar  -->
+        <nav id="sidebar">
+            <div class="sidebar-header">
+                <h3>Refine Selection</h3>
+            </div>
+			
+			<a href="#" id="searchbtn">Search</a>
+			
+			<div class='sidegroup'>
+				<p>Wine Type:</p>
+				<div class="form-check">
+  					<input class="form-check-input winetype" type="checkbox" value="" id="red">
+  					<label class="form-check-label" for="red">
+   					 	Red
+ 				 	</label>
+				</div>
+				<div class="form-check">
+  					<input class="form-check-input winetype" type="checkbox" value="" id="white">
+  					<label class="form-check-label" for="white">
+   					 	White
+ 				 	</label>
+				</div>
+				<div class="form-check">
+  					<input class="form-check-input winetype" type="checkbox" value="" id="rose">
+  					<label class="form-check-label" for="rose">
+   					 	Ros&eacute;
+ 				 	</label>
+				</div>
+				<div class="form-check">
+  					<input class="form-check-input winetype" type="checkbox" value="" id="dessert">
+  					<label class="form-check-label" for="dessert">
+   					 	Dessert
+ 				 	</label>
+				</div>
+				<div class="form-check">
+  					<input class="form-check-input winetype" type="checkbox" value="" id="fortified">
+  					<label class="form-check-label" for="fortified">
+   					 	Fortified
+ 				 	</label>
+				</div>
+			</div><!--end .sidegroup-->
+			
+			
+			<div class="sidegroup">
+				<p>Maximum Price: &nbsp;$<span id='price'>250</span></p>
+				<form class="range-field my-4 w-100">
+  					<input type="range" min="0" max="500" id="pricerange"/>
+				</form>
+			</div>
+			
+			<div class="sidegroup">
+				<p>State:</p>
+				<div class="form-group">
+    				<select class="form-control" id="stateselect">
+      					<option>All</option>
+    				</select>
+  				</div>
+			</div>
+
+            <a href="/scrape" id="scrapebtn">Get Latest</a>
+
+            
+        </nav>
+
+        <!-- Page Content  -->
+        <div id="content">
+			<div class='container'>
+           
+				<div class='row '>
+					<div class='col-md-12'>
+						<div class='menuhead'>
+                    		<button type="button" id="sidebarCollapse" class="btn btn-info  ">
+                        		<i class="fas fa-align-justify"></i>
+                    		</button>
+						<span>2019 Wines</span>
+					</div>
+					</div>
+				</div>        
+                
+			
+			
+				<div class='row'>
+			 		<div class='col-md-12'>
+            			<p>May we recommend...</p>
+           				<div class="overflow-auto">
+                                   
+                                    <table class="table table-striped">
+                                            <thead>
+                                              <tr>
+                                                <th scope="col">Wine</th>
+                                                <th scope="col">Vintage</th>
+                                                <th scope="col">Variety</th>
+												<th scope="col">State</th>
+                                                <th scope="col">Type</th>
+                                                <th scope="col">Price</th>
+                                                <th scope="col">Score</th>
+                                              </tr>
+                                            </thead>
+                                            <tbody id='data_content'>
+                                              
+                                            </tbody>
+                                          </table>
+                            </div>
+
+            			<div class="line"></div>
+			
+				 
+            			<h2 class='patsy'>{{winfo[0].title}}</h2>
+            			<p>This is our featured wine this month. More information coming soon.</p>
+
+            			<div class="line"></div>
+
+				
+					</div><!--end col-->
+				</div><!--end row-->
+			</div><!--end .container-->
+        </div><!--end #content-->
+    </div><!--end .wrapper-->
+
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+	
+	 <script type="text/javascript">
+		 var sortdir=false;
+		 var datalist;
+		 
+        $(document).ready(function () {
+            $('#sidebarCollapse').on('click', function () {
+                $('#sidebar').toggleClass('active');
+            });
+			
+			 $('#pricerange').on("input change", function(e) {
+				 e.preventDefault();
+				 $('#price').text($(this).val());
+			 });
+			
+			$('#searchbtn').on('click', function () {
+                refineSelect();
+            });
+			
+			$('.table th').on('click', function () {
+                tablesort($(this));
+            });
+        });
+		 
+		var sort_by = function(field, reverse, primer){
+			 var key = primer ? 
+        		function(x) {return primer(x[field])} : 
+        		function(x) {return x[field]};
+			 reverse = !reverse ? 1 : -1;
+ 
+			 return function (a, b) {
+        		return a = key(a), b = key(b), reverse * ((a > b) - (b > a));
+      		} 
+ 		};
+
+		 
+		 
+		function adjustUI(){
+			var cobj={"America":1};
+			var states = myinfo.map(function (rec) {
+			 	if (!(rec.state in cobj)){
+					cobj[rec.state]=1;
+  					return rec.state;
+			 	}
+		 	});
+			states.sort();
+			$('#stateselect').empty();
+			$('#stateselect').append("<option selected>All</option>");
+			states.forEach(function(element) {
+  				if (element!==undefined && element!=="") $('#stateselect').append("<option>"+element+"</option>");
+			});
+		}
+			//var states=myinfo.map(rec => rec.state);
+		 	
+		
+		 
+		
+		
+		function addtabledata(mylist, sortval){
+			var dtbody=$('#data_content');
+			var hlist=['title','vintage','variety','state','winetype','price','score'];
+			hlen = hlist.length;
+    		dtbody.empty();
+    		var rstr=""
+    		var clen=Math.min(mylist.length, 20);
+    		for (var i=0; i<clen; i++){
+        		rec = mylist[i];
+        		rstr+="<tr>"
+        		for (var j=0; j<hlen; j++){
+            		key=hlist[j];
+					addstr=rec[key]
+					if (key==='price') {
+						if (addstr==0) addstr="Unknown";
+						else addstr="$"+addstr;
+					}
+            		rstr+="<td>"+addstr+"</td>";
+        		}
+        		rstr+="</tr>"
+    		}
+    		dtbody.append(rstr);
+		}
+
+		
+		 function tablesort(el){
+			sortdir=!sortdir;
+    		var key=el.text().toLowerCase();
+			if (key==='wine') key='title';
+			else if (key==='type') key='winetype';
+			el.addClass('active').siblings('th').removeClass('active');
+			var mylist;
+    		if (key=="vintage" || key=="price" || key=="score"){
+        		mylist = datalist.sort(sort_by(key, sortdir, parseFloat));
+    		}else{
+        		mylist = datalist.sort(sort_by(key, sortdir, function(a){return a.toUpperCase()}));
+    		}
+    		addtabledata(mylist);
+		 }
+		 
+		 function refineSelect(){
+			$('.table th').removeClass('active');
+		 	var winetypes = [];
+		 	$. each($("input.winetype:checked"), function(){
+					winetypes.push($(this).attr('id'));
+			});
+			 
+			var fwines=myinfo.slice();
+			if (winetypes.length){
+				fwines = myinfo.filter(item => winetypes.indexOf(item.winetype.toLowerCase())>=0);
+			}
+			 
+			var selState = $('#stateselect').children("option:selected").text();
+			
+			if (selState!=='All'){
+				fwines = fwines.filter(item => item.state===selState)
+			}
+			 
+			var maxprice=parseInt($('#price').text());
+			fwines = fwines.filter(item => item.price <= maxprice && item.price>0);
+			 
+			datalist=fwines;
+		 	addtabledata(fwines);
+			 
+			
+		 }
+		 
+		 
+		 
+		var myinfo = {{winfo|tojson|safe}};
+		datalist=myinfo.slice();
+		addtabledata(datalist);
+		adjustUI();
+    </script>
+</body>
+
+</html>
