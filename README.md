@@ -24,10 +24,11 @@ We are creating a website that will give users useful information when they are 
 
 
 1.	Download the git repository
-2.	In Jupyter Notebook open Transform-Load-Mongo
-3.	Run wine-mongo.ipyb
-4.	Open a terminal and start mongod
-5.	In a new terminal window navigate to the winesUSA/wineUSAapp and run app.py
+2.	Use terminal to navigate the "Transform-Load-Mongo" folder and run the Jupyter Notebook
+3.	Open a terminal and start mongod
+4.	Open wine-mongo.ipyb in Jupyter Notebook and Restart the kernel and run through all the data steps
+4.	Make sure mongod is still running in terminal
+5.	In a new terminal window navigate to the winesUSA/wineUSAapp and run "Python app.py"
 6.	When app starts go to http://127.0.0.1:5000/
 
 To update the wine database, click ‘Get Latest’ button on the lower left side of the web page.
