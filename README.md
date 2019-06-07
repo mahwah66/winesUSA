@@ -1,5 +1,8 @@
 # WinesUSA
 
+### Group Members
+Mary Phillipuk, Rachel Berkowitz, Kathleen Freeberg
+
 ## Project Summary
 
 
